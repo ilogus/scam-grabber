@@ -1,4 +1,4 @@
-[![Scam Grabber - PoC](https://github.com/ilogus/scam-grabber/img/banner.jpg)](https://github.com/ilogus/scam-grabber/)
+[![Scam Grabber - PoC](https://github.com/ilogus/scam-grabber/blob/08dd68f0547fe8d276a195bef17c2ab0cc97ab50/img/banner.jpg?raw=true)](https://github.com/ilogus/scam-grabber/)
 
 # Scam Grabber - PoC
 
