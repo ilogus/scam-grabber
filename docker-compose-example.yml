@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  app:
+    image: ilogus/scam-grabber:latest
+    container_name: scam-grabber
+    ports:
+      - "8080:3000"
+    environment:
+      - CLOUDFLARE=false # If you are using cloudflare, set to true
+      - DISCORD_WEBHOOK=https://your-discord-webhook-url
+    restart: always
